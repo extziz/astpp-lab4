@@ -1,0 +1,7 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1792261663664,1437,01_Home,200,OK,Smoke - 1 user 1-1,text,true,,132958,329,1,1,https://citrus.ua/,1178,0,641
+1792261665651,1141,02_Catalog_Smartphones,200,OK,Smoke - 1 user 1-1,text,true,,138400,339,1,1,https://citrus.ua/smartfony/,202,0,0
+1792261667370,2357,03_Brand_Apple_iPhone,200,OK,Smoke - 1 user 1-1,text,true,,105376,372,1,1,https://citrus.ua/smartfony/brand-apple/seriya_iphone-18-pro/,2111,0,0
+1792261670228,860,04_Product_Page,200,OK,Smoke - 1 user 1-1,text,true,,99151,391,1,1,https://citrus.ua/smartfony/smartfon-iphone-18-pro-512gb-black-apple-804515.html,820,0,0
+1792261671591,369,05_Search,200,OK,Smoke - 1 user 1-1,text,true,,71073,345,1,1,https://citrus.ua/search/?q=iphone,360,0,0
+1792261672461,336,06_Promotions,200,OK,Smoke - 1 user 1-1,text,true,,70449,336,1,1,https://citrus.ua/shares/,317,0,0
